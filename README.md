@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shamschandio
-- 👀 I’m interested in pyhton for blockchains
+- 👀 I’m interested in python for blockchains
 - 🌱 I’m currently learning python for Dapps
 - 💞️ I’m looking to collaborate on solidity and djando
 - 📫 How to reach me through discord
